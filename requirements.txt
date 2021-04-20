@@ -64,7 +64,7 @@ pickleshare==0.7.4
 pluggy==0.6.0
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
-py==1.5.2
+py==1.10.0
 pyaes==1.6.1
 pyasn1==0.4.2
 Pygments==2.2.0
